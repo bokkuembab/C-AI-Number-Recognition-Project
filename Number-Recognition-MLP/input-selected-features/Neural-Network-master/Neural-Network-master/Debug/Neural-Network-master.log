@@ -1,0 +1,26 @@
+﻿  main.c
+c:\users\wee\documents\visual studio 2015\projects\neural-network-master\neural-network-master\main.c(51): warning C4129: '%': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+c:\users\wee\documents\visual studio 2015\projects\neural-network-master\neural-network-master\main.c(54): warning C4129: '%': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+c:\users\wee\documents\visual studio 2015\projects\neural-network-master\neural-network-master\main.c(51): warning C4778: 'printf' : 서식 문자열 '% \n'이(가) 종결되지 않았습니다.
+c:\users\wee\documents\visual studio 2015\projects\neural-network-master\neural-network-master\main.c(54): warning C4778: 'printf' : 서식 문자열 '% \n'이(가) 종결되지 않았습니다.
+  AI.c
+c:\users\wee\documents\visual studio 2015\projects\neural-network-master\neural-network-master\ai.c(30): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\wee\documents\visual studio 2015\projects\neural-network-master\neural-network-master\ai.c(31): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\wee\documents\visual studio 2015\projects\neural-network-master\neural-network-master\ai.c(35): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\wee\documents\visual studio 2015\projects\neural-network-master\neural-network-master\ai.c(38): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\wee\documents\visual studio 2015\projects\neural-network-master\neural-network-master\ai.c(51): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\wee\documents\visual studio 2015\projects\neural-network-master\neural-network-master\ai.c(54): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\wee\documents\visual studio 2015\projects\neural-network-master\neural-network-master\ai.c(66): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\wee\documents\visual studio 2015\projects\neural-network-master\neural-network-master\ai.c(72): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\wee\documents\visual studio 2015\projects\neural-network-master\neural-network-master\ai.c(81): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\wee\documents\visual studio 2015\projects\neural-network-master\neural-network-master\ai.c(190): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+  Neural-Network-master.vcxproj -> C:\Users\WEE\documents\visual studio 2015\Projects\Neural-Network-master\Debug\Neural-Network-master.exe
+  Neural-Network-master.vcxproj -> C:\Users\WEE\documents\visual studio 2015\Projects\Neural-Network-master\Debug\Neural-Network-master.pdb (Full PDB)
